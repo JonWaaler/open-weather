@@ -1,0 +1,70 @@
+.card {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.container {
+  padding-top: 40px;
+  margin-bottom: 0px;
+}
+
+.forecast-title {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+#main-card {
+  margin-top: 20px;
+  border-radius: 5px;
+  width: 250px;
+}
+
+/* Error code style for when search is wrong. */
+.error-code {
+  margin: 60px;
+  padding: 20px;
+  color: rgb(197, 33, 33);
+  border: solid 2px rgb(197, 33, 33);
+  background-color: aliceblue;
+}
+
+/* City always has first letter capitalized. */
+.city-name {
+  text-transform: capitalize;
+}
+
+.weather-desc {
+  padding-bottom: 2px;
+  border-bottom: 1px ridge rgb(0, 217, 255);
+  border-left: 1px ridge rgb(0, 217, 255);
+  border-right: 1px ridge rgb(0, 217, 255);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: #cdf0ff;
+}
+
+.card-body img {
+  padding-top: 2px;
+  border-top: 1px ridge rgb(0, 217, 255);
+  border-left: 1px ridge rgb(0, 217, 255);
+  border-right: 1px ridge rgb(0, 217, 255);
+  width: 126px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+
+  background-color: #b1e8ff;
+}
+
+main {
+  background-color: #ffffff;
+}
+
+.col-right {
+  background-color: rgb(238, 243, 245);
+  width: 200px;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 5px;
+  width: 250px;
+}
