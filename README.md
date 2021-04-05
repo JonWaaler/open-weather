@@ -24,7 +24,7 @@ https://jonwaaler.github.io/open-weather/
 
 ## Web Preview
 
-![Alt text](https://imgur.com/u0TFrWr)
+![Alt text](https://i.imgur.com/u0TFrWr.png)
 
 ## Contribution
 
